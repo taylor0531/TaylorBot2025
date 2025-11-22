@@ -1,5 +1,7 @@
 # TaylorBot2025
 
+UPDATE - Nov 22, 2025 - we moved on. We no longer use this swerve code base. Since we use CTRE motors, we use their swerve code generator in Tuner X. It works really well!! 
+
 Jan 18, 2025
 Swerve code for FRC 2025.
 This code is base swerve code with pathplanner in autonomous. 
